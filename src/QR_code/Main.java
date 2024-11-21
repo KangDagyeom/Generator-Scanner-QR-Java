@@ -40,6 +40,7 @@ public class Main extends javax.swing.JFrame {
      */
     public Main() {
         initComponents();
+        txtarea1.setEditable(false);
     }
 
     /**
